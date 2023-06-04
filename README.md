@@ -1,4 +1,4 @@
-# Website_Design_Wirh_Canva
+# Website_Design_With_Canva
 
 
 See the webpage i designed with the canva(animated) ->
